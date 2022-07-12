@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.3b8657cd.css",
-    "main.js": "/static/js/main.bbd8e84a.js",
+    "main.js": "/static/js/main.5aac06d5.js",
     "static/media/me.png": "/static/media/me.033655754d64bf03ac9b.png",
     "static/media/me-about.PNG": "/static/media/me-about.fc3cb0f7184860e53a3f.PNG",
     "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/AdnanAzad_Resume.pdf": "/static/media/AdnanAzad_Resume.45923eea14849e4709d2.pdf",
+    "static/media/AdnanAzadResume.pdf": "/static/media/AdnanAzadResume.30eecc6cc69b53794573.pdf",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
@@ -13,10 +13,10 @@
     "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/index.html",
     "main.3b8657cd.css.map": "/static/css/main.3b8657cd.css.map",
-    "main.bbd8e84a.js.map": "/static/js/main.bbd8e84a.js.map"
+    "main.5aac06d5.js.map": "/static/js/main.5aac06d5.js.map"
   },
   "entrypoints": [
     "static/css/main.3b8657cd.css",
-    "static/js/main.bbd8e84a.js"
+    "static/js/main.5aac06d5.js"
   ]
 }
