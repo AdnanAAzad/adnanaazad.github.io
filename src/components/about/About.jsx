@@ -9,7 +9,7 @@ const About = () => {
   return (
     <section id="about">
       <h5>Get To Know</h5>
-      <h2>ABOUT ME</h2>
+      <h2>— ABOUT ME —</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -26,17 +26,25 @@ const About = () => {
             </article>
             <article className="about__card">
               <FiUsers />
-              <h5>Clients</h5>
-              <small>300+ clients worldwide</small>
+              <h5>Academic Work</h5>
+              <small>Extensive Courses in Software Engineering</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary />
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>5+ Technical Projects Completed</small>
             </article>
           </div>
-
-          <p>Section talking about your achievements</p>
+          <p>
+            <br />
+            Successfully developed and deployed the website for the Rotaract Club of Toronto Danforth and was awarded the Best
+            Advertising Award for its development as it increased membership
+            signup rate by 60% for the organization.
+            <br />
+            I am actively working towards my Amazon Web Services (AWS) Certifications and continually growing as a software engineer
+            with a big focus in Web Development
+          </p>
+          <p>—</p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
           </a>

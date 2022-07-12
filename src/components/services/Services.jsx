@@ -5,7 +5,7 @@ const Services = () => {
   return (
     <section id="services">
       <h5>What I Offer</h5>
-      <h2>SERVICES</h2>
+      <h2>— SERVICES —</h2>
 
       <div className="container services__container">
         {/*WEB DEVELOPMENT*/}
@@ -16,23 +16,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Front-End Development</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Back-End Development</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Full-Stack Development</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Web Development Content Management System (CMS)</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Front-End Designing and User Experience</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Development Project Coordination</p>
             </li>
           </ul>
         </article>
@@ -44,23 +48,59 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Analytical Decision Making</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Project Management and Delivery</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Adaptability</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Tech Savviness</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Example item 1</p>
+              <p>Great Communication</p>
+            </li>
+          </ul>
+        </article>
+        {/*Computer Hardware and Networking*/}
+        <article className="service">
+          <div className="service__head">
+            <h3>Computer Hardware and Networking</h3>
+          </div>
+          <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Network Security</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Server Management</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Hardware Networking</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Network Set-up</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Server Initialization</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Computer Hardware</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Troubleshooting</p>
             </li>
           </ul>
         </article>

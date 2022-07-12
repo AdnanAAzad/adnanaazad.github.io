@@ -1,11 +1,16 @@
 /* CALL TO ACTION (CTA) */
-import AdnanAzad_Resume from "../../assets/AdnanAzad_Resume.pdf";
+import AdnanAzadResume from "../../assets/AdnanAzadResume.pdf";
 import React from "react";
 
 const CTA = () => {
   return (
     <div className="cta">
-      <a href={AdnanAzad_Resume} download className="btn">
+      <a
+        href={AdnanAzadResume}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="btn"
+      >
         Download Resume
       </a>
       <a href="#contact" className="btn btn-primary">
