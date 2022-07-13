@@ -207,7 +207,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4> <a href="https://adnanaazad.wordpress.com/" target="_blank" rel="noreferrer">WordPress | Click Here to Check out the Site!</a> </h4>
+                <h4> WordPress </h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>

@@ -34,16 +34,23 @@ const About = () => {
               <h5>Projects</h5>
               <small>5+ Technical Projects Completed</small>
             </article>
+            <article className="about__card">
+              <VscFolderLibrary />
+              <h5>Achievements & Certifications</h5>
+              <small>Several Awards Recieved</small>
+            </article>
           </div>
           <p>
             <br />
-            Hey there! My name is Adnan Azad and I am a Web Developed based in Toronto, ON, Canada. I have Successfully developed, designed, and deployed 
-            websites for several clients worldwide. I graduated with my Bachelors in Computer Engineering and currently I am persuing my Bachelors of Technology in Software Development.
+            Hey there! My name is Adnan Azad and I am a Web Developer based in Toronto, Canada. I have Successfully developed, designed, and deployed 
+            websites for several clients worldwide. I graduated with my Bachelors in Computer Engineering and currently I am persuing my Bachelors of 
+            Technology in Software Development.
           </p>
           <p>—</p>
           <p>
             I am a profecient and effective Software Engineer with a big focus in Web Development. I have experience
-            in Front-End and Back-End development and with many web development tools such as React, JavaScript ES6, HTML5, CSS3, REST API, PHP, SQL, Redux, & WordPress to name a few.  
+            in Front-End and Back-End development and with many web development tools such as React, JavaScript ES6, HTML5, CSS3, REST API, PHP, 
+            SQL, Redux, & WordPress to name a few.  
           </p>
           <p>—</p>
           <p>

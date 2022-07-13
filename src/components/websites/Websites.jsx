@@ -3,6 +3,7 @@ import './websites.css'
 import RotaractClubDanforth from "../../assets/website_pics/rotaractcluboftorontodanforth.png"
 import SumaiyaGroup from "../../assets/website_pics/sumaiyagroup.jpg"
 import ThisWebsitePic from "../../assets/website_pics/portfoliosite.png"
+import WordpressSite from "../../assets/website_pics/wordpresssite.jpg"
 
 const data = [
     {
@@ -29,6 +30,15 @@ const data = [
         tools: "ReactJS • JavaScript ES6 • HTML5 • CSS3 • EmailJS",
         
     },
+    {
+      id: 4,
+      image:WordpressSite,
+      nature:"Front-End Web Development • WordPress Development",
+      title: "Web Development & Web Design",
+      tools: "WordPress • HTML5 • CSS3",
+      websiteURL: "https://adnanaazad.wordpress.com/",
+      
+  },
 ];
 
 const websites = () => {
