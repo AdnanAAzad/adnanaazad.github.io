@@ -1,48 +1,49 @@
 import React from "react";
 import "./portfolio.css";
-import IMG_1 from "../../assets/portfolio1.jpg";
-import IMG_2 from "../../assets/portfolio2.jpg";
-import IMG_3 from "../../assets/portfolio3.jpg";
+import Pokedex from "../../assets/pokemon.png";
+import Snake_Game from "../../assets/snake_game.png";
+import Battleship from "../../assets/Python-Code-Image.jpg";
 import IMG_4 from "../../assets/portfolio4.jpg";
 import IMG_5 from "../../assets/portfolio5.png";
 import IMG_6 from "../../assets/portfolio6.jpg";
+import StorageMgntSys from "../../assets/storage_mgnt_system.PNG";
 
 const data = [
   {
     id: 1,
     image: IMG_6,
     title: "This Personal Website",
-    tools: "ReactJS, JavaScript ES6, HTML5, CSS3, EmailJS",
+    tools: "ReactJS • JavaScript ES6 • HTML5 • CSS3 • EmailJS",
     github: "https://github.com/AdnanAAzad/adnanaazad.github.io",
     demo: "#",
   },
   {
     id: 2,
-    image: IMG_1,
+    image: Pokedex,
     title: "POXEDEX Web App",
-    tools: "ReactJS, Javascript ES6, HTML5, CSS3",
+    tools: "ReactJS • Javascript ES6 • HTML5 • CSS3",
     github: "https://github.com/AdnanAAzad/Pokedex-Web-App",
     demo: "https://github.com/AdnanAAzad/Pokedex-Web-App"
   },
   {
     id: 3,
-    image: IMG_2,
+    image: Snake_Game,
     title: "Web Based Snake Game",
-    tools: "JavaScript ES6, HTML5, CSS3",
+    tools: "JavaScript ES6 • HTML5 • CSS3",
     github: "https://github.com/AdnanAAzad/Snake-Game",
     demo: "https://adnanaazad.github.io/Snake-Game/",
   },
   {
     id: 4,
-    image: IMG_3,
+    image: StorageMgntSys,
     title: "Storage Management System",
-    tools: "C#, .NET Framework, TCP/IP",
+    tools: "C# • .NET Framework • TCP/IP",
     github: "https://github.com/AdnanAAzad/Storage-Management-System",
     demo: "https://github.com/AdnanAAzad/Storage-Management-System",
   },
   {
     id: 5,
-    image: IMG_4,
+    image: Battleship,
     title: "Battleship Game",
     tools: "Python",
     github: "https://github.com/AdnanAAzad/BattleShip/blob/main/Adnan_azad_Assignment1_Battleship_Game.py",
@@ -74,7 +75,8 @@ const Portfolio = () => {
                 <img src={image} alt={title} />
               </div>
               <h3>{title}</h3>
-              <small>Using {tools}</small>
+              <div className="tools_btn"><small>{tools}</small></div>
+              
               <div className="portfolio__item-cta">
                 <a
                   href={github}

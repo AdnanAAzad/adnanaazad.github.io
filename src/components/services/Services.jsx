@@ -40,6 +40,7 @@ const Services = () => {
             </li>
           </ul>
         </article>
+        {/*END*/}
         {/*lEADERSHIP*/}
         <article className="service">
           <div className="service__head">
@@ -68,6 +69,7 @@ const Services = () => {
             </li>
           </ul>
         </article>
+        {/*END*/}
         {/*Computer Hardware and Networking*/}
         <article className="service">
           <div className="service__head">
@@ -104,6 +106,9 @@ const Services = () => {
             </li>
           </ul>
         </article>
+        {/*END*/}
+        
+        
       </div>
     </section>
   );

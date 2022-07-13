@@ -15,6 +15,8 @@
 .portfolio__item:hover{
     border-color: var(--color-primary-variant);
     background: transparent;
+    color: var(--color-primary);
+    transition: var(--transition);
 }
 
 .portfolio__item-image{
@@ -31,7 +33,13 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
-
+.tools_btn{
+    margin-bottom: 2rem;
+}
+.tools_btn:hover{
+    color: var(--color-primary);
+    transition: var(--transition);
+}
 /* ======== MEDIA QUERIES (MEDIUM DEVICES) ========== */
 @media screen and (max-width: 1024px){
     .portfolio__container{
