@@ -7,6 +7,7 @@ import { MdDesignServices } from "react-icons/md";
 import { BiMessageDetail } from "react-icons/bi";
 import { useState } from "react";
 import { BiNetworkChart } from "react-icons/bi";
+import {IoMdCodeWorking} from "react-icons/io"
 
 const Nav = () => {
   const [activeNav, setActiveNav] = useState("#home");
@@ -25,6 +26,13 @@ const Nav = () => {
         className={activeNav === "#about" ? "active" : ""}
       >
         <FaUserCircle />
+      </a>
+      <a
+        href="#websites"
+        onClick={() => setActiveNav("#websites")}
+        className={activeNav === "#websites" ? "active" : ""}
+      >
+        <IoMdCodeWorking />
       </a>
       <a
         href="#experience"

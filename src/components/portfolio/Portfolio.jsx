@@ -1,17 +1,17 @@
 import React from "react";
 import "./portfolio.css";
+// Picture Import for Projects
 import Pokedex from "../../assets/pokemon.png";
 import Snake_Game from "../../assets/snake_game.png";
 import Battleship from "../../assets/Python-Code-Image.jpg";
-import IMG_4 from "../../assets/portfolio4.jpg";
 import IMG_5 from "../../assets/portfolio5.png";
-import IMG_6 from "../../assets/portfolio6.jpg";
 import StorageMgntSys from "../../assets/storage_mgnt_system.PNG";
+import PortfolioSite from "../../assets/portfoliosite.png"
 
 const data = [
   {
     id: 1,
-    image: IMG_6,
+    image: PortfolioSite,
     title: "This Personal Website",
     tools: "ReactJS • JavaScript ES6 • HTML5 • CSS3 • EmailJS",
     github: "https://github.com/AdnanAAzad/adnanaazad.github.io",
@@ -21,7 +21,7 @@ const data = [
     id: 2,
     image: Pokedex,
     title: "POXEDEX Web App",
-    tools: "ReactJS • Javascript ES6 • HTML5 • CSS3",
+    tools: "ReactJS • Javascript ES6 • HTML5 • CSS3 • REST API",
     github: "https://github.com/AdnanAAzad/Pokedex-Web-App",
     demo: "https://github.com/AdnanAAzad/Pokedex-Web-App"
   },

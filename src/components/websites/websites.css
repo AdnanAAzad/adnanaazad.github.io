@@ -1,10 +1,10 @@
-.portfolio__container{
+.website__container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 2.5rem;
 }
 
-.portfolio__item{
+.website__item{
     background: var(--color-bg-variant);
     padding: 1.3rem;
     border-radius: 2rem;
@@ -12,40 +12,43 @@
     transition: var(--transition);
 }
 
-.portfolio__item:hover{
+.website__item:hover{
     border-color: var(--color-primary-variant);
     background: transparent;
     color: var(--color-primary);
     transition: var(--transition);
 }
 
-.portfolio__item-image{
+.website__item-image{
     border-radius: 1.5rem;
     overflow: hidden;
 }
 
-.portfolio__item h3{
+.website__item h3{
     margin: 1.2rem 0 2rem;
 }
-.portfolio__item h3:hover{
+.website__item h3:hover{
     color: white;
     transition: var(--transition);
 }
-.portfolio__item-cta{
+.website__item-cta{
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
 }
-.tools_btn{
+.btn:hover{
+    background-color: var(--color-primary);
+}
+.tools__btn{
     margin-bottom: 2rem;
 }
-.tools_btn:hover{
+.tools__btn:hover{
     color: white;
     transition: var(--transition);
 }
 /* ======== MEDIA QUERIES (MEDIUM DEVICES) ========== */
 @media screen and (max-width: 1024px){
-    .portfolio__container{
+    .website__container{
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
@@ -53,7 +56,7 @@
 }
 /* ======== MEDIA QUERIES (SMALL DEVICES) ========== */
 @media screen and (max-width: 600px){
-    .portfolio__container{
+    .website__container{
         display: grid;
         grid-template-columns: 1fr;
         gap: 1rem;

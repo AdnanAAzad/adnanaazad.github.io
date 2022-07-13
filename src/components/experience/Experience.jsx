@@ -68,6 +68,13 @@ const Experience = () => {
                 <small className="text-light">Experienced</small>
               </div>
             </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>PHP</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
           </div>
         </div>
         {/* END */}
@@ -119,13 +126,7 @@ const Experience = () => {
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>PHP</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
+            
           </div>
         </div>
         {/* END */}
@@ -144,6 +145,13 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>NoSQL</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>PHP</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -199,8 +207,8 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>WordPress</h4>
-                <small className="text-light">Beginner</small>
+                <h4> <a href="https://adnanaazad.wordpress.com/" target="_blank" rel="noreferrer">WordPress | Click Here to Check out the Site!</a> </h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
           </div>

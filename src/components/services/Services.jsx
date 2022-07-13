@@ -28,6 +28,10 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
+              <p>WordPress Development</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
               <p>Web Development Content Management System (CMS)</p>
             </li>
             <li>
@@ -50,6 +54,10 @@ const Services = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>Analytical Decision Making</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Attention to Detail</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
