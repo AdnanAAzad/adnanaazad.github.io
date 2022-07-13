@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ff9b922.css",
-    "main.js": "/static/js/main.e4315da7.js",
+    "main.css": "/static/css/main.ba588655.css",
+    "main.js": "/static/js/main.e0f35a20.js",
     "static/media/me.png": "/static/media/me.033655754d64bf03ac9b.png",
     "static/media/me-about.PNG": "/static/media/me-about.fc3cb0f7184860e53a3f.PNG",
-    "static/media/pokemon.png": "/static/media/pokemon.9081b364b302266b7a67.png",
-    "static/media/Python-Code-Image.jpg": "/static/media/Python-Code-Image.711c4e94e8ac102f10f0.jpg",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/pokemon.png": "/static/media/pokemon.bb005aacecfb0677beec.png",
+    "static/media/portfolio5.png": "/static/media/portfolio5.2d29fd77bbedfa7191da.png",
+    "static/media/Python-Code-Image.jpg": "/static/media/Python-Code-Image.e8c61dfe0d7d256ec76d.jpg",
+    "static/media/portfoliosite.png": "/static/media/portfoliosite.173f4f62595e013b9737.png",
     "static/media/AdnanAzadResume.pdf": "/static/media/AdnanAzadResume.30eecc6cc69b53794573.pdf",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/storage_mgnt_system.PNG": "/static/media/storage_mgnt_system.757560f61f536ae321db.PNG",
+    "static/media/storage_mgnt_system.PNG": "/static/media/storage_mgnt_system.510d441782ffcee18c42.PNG",
+    "static/media/sumaiyagroup.jpg": "/static/media/sumaiyagroup.54c4424b79421c3f7e07.jpg",
+    "static/media/rotaractcluboftorontodanforth.png": "/static/media/rotaractcluboftorontodanforth.8ad4fc8503835a10f521.png",
     "index.html": "/index.html",
-    "main.1ff9b922.css.map": "/static/css/main.1ff9b922.css.map",
-    "main.e4315da7.js.map": "/static/js/main.e4315da7.js.map"
+    "main.ba588655.css.map": "/static/css/main.ba588655.css.map",
+    "main.e0f35a20.js.map": "/static/js/main.e0f35a20.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ff9b922.css",
-    "static/js/main.e4315da7.js"
+    "static/css/main.ba588655.css",
+    "static/js/main.e0f35a20.js"
   ]
 }
