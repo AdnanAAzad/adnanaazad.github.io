@@ -50,7 +50,8 @@ const About = () => {
           <p>—</p>
           <p>
             I am a profecient and effective Software Engineer with a big focus in Web Development. I have experience
-            in Front-End and Back-End development and with many web development tools such as React, JavaScript ES6, HTML5, CSS3, REST API, PHP, 
+            in Front-End as well as Back-End development along with many web development frameworks and tools such as React, 
+            JavaScript ES6, HTML5, CSS3, REST API, PHP, 
             SQL, Redux, & WordPress to name a few.  
           </p>
           <p>—</p>
