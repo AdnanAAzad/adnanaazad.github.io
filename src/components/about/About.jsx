@@ -4,6 +4,7 @@ import ME from "../../assets/me-about.PNG";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
+import {AiOutlineSafetyCertificate} from "react-icons/ai";
 
 const About = () => {
   return (
@@ -35,7 +36,7 @@ const About = () => {
               <small>5+ Technical Projects Completed</small>
             </article>
             <article className="about__card">
-              <VscFolderLibrary />
+              <AiOutlineSafetyCertificate />
               <h5>Achievements & Certifications</h5>
               <small>Several Awards Recieved</small>
             </article>
