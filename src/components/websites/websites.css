@@ -22,10 +22,14 @@
 .website__item-image{
     border-radius: 1.5rem;
     overflow: hidden;
+    margin-bottom: 0.5rem;
 }
-
+small{
+    color: var(--color-primary);
+}
 .website__item h3{
-    margin: 1.2rem 0 2rem;
+    margin-top: -0.5rem;
+    margin-bottom: 2rem;
 }
 .website__item h3:hover{
     color: white;
