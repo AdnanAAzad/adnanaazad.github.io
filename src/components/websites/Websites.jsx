@@ -56,16 +56,16 @@ const websites = () => {
                 
                 <img src={image} alt={title} />
               </div>
-              <small>Company:</small>
+              <small>Company</small>
               <h3>{title}</h3>
               
               <div className="tools__btn">
-                <small>Nature: </small> 
+                <small>Nature</small> 
                 <br /> 
                 <h5>{nature}</h5>
               </div>
               <div className="tools__btn">
-                <small>Developed Using </small>
+                <small>Developed Using</small>
                 <h5>{tools}</h5>
               </div>
               
