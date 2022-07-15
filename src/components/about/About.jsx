@@ -43,7 +43,7 @@ const About = () => {
           </div>
           <p>
             <br />
-            Hey there! My name is Adnan Azad and I am a Web Developer based in Toronto, Canada. I have Successfully developed, designed, and deployed 
+            Hey there! My name is Adnan Azad and I am a Web Development Engineer based in Toronto, Canada. I have Successfully developed, designed, and deployed 
             websites for several clients worldwide. I graduated with my Bachelors in Computer Engineering and currently I am persuing my Bachelors of 
             Technology in Software Development.
           </p>
