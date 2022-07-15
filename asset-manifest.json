@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba588655.css",
-    "main.js": "/static/js/main.3fadf5b6.js",
+    "main.css": "/static/css/main.d9e017cb.css",
+    "main.js": "/static/js/main.59c60a7a.js",
     "static/media/me.png": "/static/media/me.033655754d64bf03ac9b.png",
     "static/media/me-about.PNG": "/static/media/me-about.fc3cb0f7184860e53a3f.PNG",
     "static/media/pokemon.png": "/static/media/pokemon.bb005aacecfb0677beec.png",
@@ -15,11 +15,11 @@
     "static/media/sumaiyagroup.jpg": "/static/media/sumaiyagroup.54c4424b79421c3f7e07.jpg",
     "static/media/rotaractcluboftorontodanforth.png": "/static/media/rotaractcluboftorontodanforth.8ad4fc8503835a10f521.png",
     "index.html": "/index.html",
-    "main.ba588655.css.map": "/static/css/main.ba588655.css.map",
-    "main.3fadf5b6.js.map": "/static/js/main.3fadf5b6.js.map"
+    "main.d9e017cb.css.map": "/static/css/main.d9e017cb.css.map",
+    "main.59c60a7a.js.map": "/static/js/main.59c60a7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba588655.css",
-    "static/js/main.3fadf5b6.js"
+    "static/css/main.d9e017cb.css",
+    "static/js/main.59c60a7a.js"
   ]
 }
