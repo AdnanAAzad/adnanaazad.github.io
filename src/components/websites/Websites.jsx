@@ -6,13 +6,14 @@ import ThisWebsitePic from "../../assets/website_pics/portfoliosite.png"
 import WordpressSite from "../../assets/website_pics/wordpresssite.jpg"
 
 const data = [
+    
     {
       id: 1,
-      image:ThisWebsitePic,
-      nature:"Front-End Web Development",
-      title: "This Personal Website",
+      image:SumaiyaGroup,
+      nature:"Full-Stack Web Development",
+      title: "Sumaiya Group",
       tools: "ReactJS • JavaScript ES6 • HTML5 • CSS3 • EmailJS",
-      websiteURL: "https://adnanaazad.github.io/",
+      
     },
     {
         id: 2,
@@ -23,12 +24,12 @@ const data = [
         websiteURL: "https://www.rotaractdanforth.com/",
     },
     {
-        id: 3,
-        image:SumaiyaGroup,
-        nature:"Full-Stack Web Development",
-        title: "Sumaiya Group",
-        tools: "ReactJS • JavaScript ES6 • HTML5 • CSS3 • EmailJS",
-        
+      id: 3,
+      image:ThisWebsitePic,
+      nature:"Front-End Web Development",
+      title: "This Personal Website",
+      tools: "ReactJS • JavaScript ES6 • HTML5 • CSS3 • EmailJS",
+      websiteURL: "https://adnanaazad.github.io/",
     },
     {
       id: 4,
@@ -38,7 +39,7 @@ const data = [
       tools: "WordPress • HTML5 • CSS3",
       websiteURL: "https://adnanaazad.wordpress.com/",
       
-  },
+    },
 ];
 
 const websites = () => {
