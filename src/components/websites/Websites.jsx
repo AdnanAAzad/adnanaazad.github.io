@@ -10,7 +10,7 @@ const data = [
     {
       id: 1,
       image:SumaiyaGroup,
-      nature:"Front-Stack Web Development",
+      nature:"Front-End Web Development",
       title: "Sumaiya Group",
       tools: "ReactJS • JavaScript ES6 • HTML5 • CSS3 • EmailJS",
       
