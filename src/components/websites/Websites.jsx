@@ -12,7 +12,7 @@ const data = [
       image:SumaiyaGroup,
       nature:"Front-End Web Development",
       title: "Sumaiya Group",
-      tools: "ReactJS • JavaScript ES6 • HTML5 • CSS3 • EmailJS",
+      tools: "ReactJS • JavaScript ES6 • HTML5 • CSS3 • EmailJS • Firebase",
       
     },
     {
