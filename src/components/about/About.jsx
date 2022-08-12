@@ -4,7 +4,7 @@ import ME from "../../assets/me-about.PNG";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
-import {AiOutlineSafetyCertificate} from "react-icons/ai";
+import { AiOutlineSafetyCertificate } from "react-icons/ai";
 
 const About = () => {
   return (
@@ -23,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaAward />
               <h5>Experience</h5>
-              <small>3+ years working experience</small>
+              <small>2+ years working experience</small>
             </article>
             <article className="about__card">
               <FiUsers />
@@ -43,27 +43,36 @@ const About = () => {
           </div>
           <p>
             <br />
-            Hey there! My name is Adnan Azad and I am a Front-End Web Development Engineer based in Toronto, Canada. I have Successfully developed, designed, and deployed 
-            websites for several clients worldwide. I graduated with my Bachelors in Computer Engineering and currently I am persuing my Bachelors of 
-            Technology in Software Development.
+            Hey there! My name is Adnan Azad and I am a Full Stack Software
+            Engineer based in Toronto, Canada. I have Successfully developed,
+            designed, and deployed websites for several clients worldwide as
+            well as work as a full stack software engineer for an international
+            tax software company. I graduated with my Bachelors in Computer
+            Engineering and currently I am pursuing my Bachelors of Technology
+            in Software Development.
           </p>
           <p>—</p>
           <p>
-            I am a profecient and effective Software Engineer with a big focus in Web Development. I have experience
-            in Front-End as well as Back-End development along with many web development frameworks and tools such as React, 
-            JavaScript ES6, HTML5, CSS3, REST API, PHP, 
-            SQL, Redux, & WordPress to name a few.  
+            I am a profecient and effective Software Engineer with a big focus
+            in Full Stack Web Development. I have experience in Front-End as
+            well as Back-End development along with many web development
+            frameworks and tools such as React, JavaScript ES6, HTML5, CSS3,
+            REST API, PHP, SQL, Redux, & WordPress to name a few.
           </p>
           <p>—</p>
           <p>
-            I am actively working towards my Amazon Web Services (AWS) Certifications and continually growing as a Web Developer through more complex
-            Web Development projects, AI & Automation, REST API usage, and Web Design. If you need any kind of Web Development services I would be honoured
-            if you contacted me.
+            I am actively working towards my Amazon Web Services (AWS)
+            Certifications and continually growing as a Web Developer through
+            more complex Web Development projects, AI & Automation, REST API
+            usage, and Web Design. If you need any kind of Web Development
+            services I would be honoured if you contacted me.
           </p>
           <p>—</p>
-          <p>Finally, I would like to thank you for stopping by and I wish you all the best!
+          <p>
+            Finally, I would like to thank you for stopping by and I wish you
+            all the best!
             <br />
-            <br  />
+            <br />
             Regards,
             <br />
             Adnan
