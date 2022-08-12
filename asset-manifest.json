@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d9e017cb.css",
-    "main.js": "/static/js/main.ce11dad9.js",
+    "main.js": "/static/js/main.aaef24dc.js",
     "static/media/me.png": "/static/media/me.033655754d64bf03ac9b.png",
     "static/media/me-about.PNG": "/static/media/me-about.fc3cb0f7184860e53a3f.PNG",
     "static/media/pokemon.png": "/static/media/pokemon.bb005aacecfb0677beec.png",
@@ -16,10 +16,10 @@
     "static/media/rotaractcluboftorontodanforth.png": "/static/media/rotaractcluboftorontodanforth.8ad4fc8503835a10f521.png",
     "index.html": "/index.html",
     "main.d9e017cb.css.map": "/static/css/main.d9e017cb.css.map",
-    "main.ce11dad9.js.map": "/static/js/main.ce11dad9.js.map"
+    "main.aaef24dc.js.map": "/static/js/main.aaef24dc.js.map"
   },
   "entrypoints": [
     "static/css/main.d9e017cb.css",
-    "static/js/main.ce11dad9.js"
+    "static/js/main.aaef24dc.js"
   ]
 }
