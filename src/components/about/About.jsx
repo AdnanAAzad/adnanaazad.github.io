@@ -43,13 +43,13 @@ const About = () => {
           </div>
           <p>
             <br />
-            Hey there! My name is Adnan Azad and I am a Full Stack Software
-            Engineer based in Toronto, Canada. I have Successfully developed,
-            designed, and deployed websites for several clients worldwide as
-            well as work as a full stack software engineer for an international
-            tax software company. I graduated with my Bachelors in Computer
-            Engineering and currently I am pursuing my Bachelors of Technology
-            in Software Development.
+            Hey there! My name is Adnan Azad and I am a Software Engineer based
+            in Toronto, Canada. I have Successfully developed, designed, and
+            deployed websites for several clients worldwide as well as work as a
+            full stack software engineer for an international tax software
+            company. I graduated with my Bachelors in Computer Engineering and
+            currently I am pursuing my Bachelors of Technology in Software
+            Development.
           </p>
           <p>—</p>
           <p>
