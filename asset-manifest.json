@@ -1,25 +1,25 @@
 {
-  "files": {
-    "main.css": "/static/css/main.e0a54e79.css",
-    "main.js": "/static/js/main.db79bc4d.js",
-    "static/media/me.png": "/static/media/me.033655754d64bf03ac9b.png",
-    "static/media/me-about.PNG": "/static/media/me-about.fc3cb0f7184860e53a3f.PNG",
-    "static/media/pokemon.png": "/static/media/pokemon.bb005aacecfb0677beec.png",
-    "static/media/portfolio5.png": "/static/media/portfolio5.2d29fd77bbedfa7191da.png",
-    "static/media/Python-Code-Image.jpg": "/static/media/Python-Code-Image.e8c61dfe0d7d256ec76d.jpg",
-    "static/media/portfoliosite.png": "/static/media/portfoliosite.173f4f62595e013b9737.png",
-    "static/media/AdnanAzadResume.pdf": "/static/media/AdnanAzadResume.7d4dce4af6ba644e3641.pdf",
-    "static/media/joblisterapp.png": "/static/media/joblisterapp.7735cd584ec8ec44b977.png",
-    "static/media/storage_mgnt_system.PNG": "/static/media/storage_mgnt_system.510d441782ffcee18c42.PNG",
-    "static/media/wordpresssite.jpg": "/static/media/wordpresssite.60a9d18605440af1fe8f.jpg",
-    "static/media/sumaiyagroup.jpg": "/static/media/sumaiyagroup.54c4424b79421c3f7e07.jpg",
-    "static/media/rotaractcluboftorontodanforth.png": "/static/media/rotaractcluboftorontodanforth.8ad4fc8503835a10f521.png",
-    "index.html": "/index.html",
-    "main.e0a54e79.css.map": "/static/css/main.e0a54e79.css.map",
-    "main.db79bc4d.js.map": "/static/js/main.db79bc4d.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e0a54e79.css",
-    "static/js/main.db79bc4d.js"
-  ]
+  "main.css": "/static/css/main.cb86eddf.chunk.css",
+  "main.js": "/static/js/main.272092ef.chunk.js",
+  "main.js.map": "/static/js/main.272092ef.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.5fbcd574.chunk.js": "/static/js/2.5fbcd574.chunk.js",
+  "static/js/2.5fbcd574.chunk.js.map": "/static/js/2.5fbcd574.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.d7a78acd09baf094d71fb29cbb664e92.js": "/precache-manifest.d7a78acd09baf094d71fb29cbb664e92.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.cb86eddf.chunk.css.map": "/static/css/main.cb86eddf.chunk.css.map",
+  "static/media/AdnanAzadResume.pdf": "/static/media/AdnanAzadResume.a7a9c7e4.pdf",
+  "static/media/Python-Code-Image.jpg": "/static/media/Python-Code-Image.9d80c35c.jpg",
+  "static/media/joblisterapp.png": "/static/media/joblisterapp.7c4083dd.png",
+  "static/media/me-about.PNG": "/static/media/me-about.1762a950.PNG",
+  "static/media/me.png": "/static/media/me.e07c27cd.png",
+  "static/media/pokemon.png": "/static/media/pokemon.bc0f182d.png",
+  "static/media/portfolio5.png": "/static/media/portfolio5.8a974773.png",
+  "static/media/portfoliosite.png": "/static/media/portfoliosite.8f88f0b3.png",
+  "static/media/rotaractcluboftorontodanforth.png": "/static/media/rotaractcluboftorontodanforth.7405d8cc.png",
+  "static/media/storage_mgnt_system.PNG": "/static/media/storage_mgnt_system.fa82be3c.PNG",
+  "static/media/sumaiyagroup.jpg": "/static/media/sumaiyagroup.d26a31f8.jpg",
+  "static/media/wordpresssite.jpg": "/static/media/wordpresssite.3631b02a.jpg"
 }
