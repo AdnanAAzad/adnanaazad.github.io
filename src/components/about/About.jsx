@@ -45,11 +45,12 @@ const About = () => {
             <br />
             Hey there! My name is Adnan Azad and I am a Developer based in
             Toronto, Canada. I have Successfully developed, designed, and
-            deployed websites for several clients worldwide as well as work as a
-            full stack software engineer for an international tax software
-            company. I graduated with my Bachelors in Computer Engineering and
-            currently I am pursuing my Bachelors of Technology in Software
-            Development.
+            deployed websites for several clients worldwide. I graduated with my
+            Bachelors in Computer Engineering 2021 and am currently pursuing my
+            <link href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+              AWS Cloud Practitioner Certification
+            </link>
+            and A+ Hardware & Software Certification
           </p>
           <p>—</p>
           <p>
