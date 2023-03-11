@@ -36,7 +36,7 @@
     border-radius: 1rem;
     padding: 2rem;
     text-align: center;
-    
+    color: white;
 }
 
 .about__card:hover {
@@ -44,7 +44,7 @@
     border-color: var(--color-primary-variant);
     cursor: default;
     transition: var(--transition);
-    color: var(black);
+    color: var(--color-text);
     
 }
 
